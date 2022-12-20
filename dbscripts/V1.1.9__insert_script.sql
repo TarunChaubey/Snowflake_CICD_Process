@@ -1,0 +1,1 @@
+insert into CLASSIFICATION_DATASETES.public.fidelity_test_users values('Himanshu','Ya','2020-01-01 12:23:23');
