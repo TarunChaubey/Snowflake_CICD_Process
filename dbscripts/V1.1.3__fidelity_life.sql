@@ -1,4 +1,4 @@
-use database SNOWFLAKE_CICD_SHOWCASE;
+use database CLASSIFICATION_DATASETES;
 use schema PUBLIC;
 
 create table fidelity_test_users if not exists(
